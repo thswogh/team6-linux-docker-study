@@ -1,0 +1,22 @@
+# 비밀값·개인정보 (절대 올리지 않기)
+.env
+*.env
+*.pem
+*.key
+id_rsa*
+secrets/
+
+# 로그·임시 파일
+*.log
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# 에디터·OS
+.vscode/
+.idea/
+
+# Jekyll 빌드 결과
+_site/
+.jekyll-cache/

@@ -1,0 +1,14 @@
+title: 6팀 리눅스·도커 스터디
+description: 리눅스 기본 명령어부터 도커·Compose까지, 직접 해 보고 정리한 기록
+lang: ko
+theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: false
+
+exclude:
+  - README.md
